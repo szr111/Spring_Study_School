@@ -1,0 +1,10 @@
+# Project exclude paths
+/Spring_01/target/
+/Spring_01_Test/target/
+/Spring_02_MyFrameWrok/target/
+/Spring_03_AOP/target/
+/Spring_03_SelfAop_CGLIBPorxy/target/
+/Spring_03_SelfAop_JDKProxy/target/
+/Spring_Comput/target/
+/Spring_FrameWorkTest/target/
+/ss/target/

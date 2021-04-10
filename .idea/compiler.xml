@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ss" />
+        <module name="Spring_03_SelfAop_JDKProxy" />
+        <module name="Spring_03_SelfAop_CGLIBPorxy" />
+        <module name="Spring_02_MyFrameWrok" />
+        <module name="Spring_01" />
+        <module name="Spring_03_AOP" />
+        <module name="Spring_01_Test" />
+        <module name="Spring_FrameWorkTest" />
+        <module name="Spring_Comput" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring_02_MySpringFrameWork" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
